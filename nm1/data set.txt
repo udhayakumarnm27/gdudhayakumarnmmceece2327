@@ -1,0 +1,27 @@
+# Smart Building Management System
+
+## Overview
+This project integrates fire detection, electricity optimization, waste management, and urban air quality monitoring using Arduino Mega and simulates it in Wokwi.
+
+## Features
+- Fire and smoke detection with flame sensor and MQ2
+- Electricity optimization based on temperature
+- Waste management via ultrasonic sensor and servo-controlled bin
+- Air quality monitoring using MQ135 and DHT22
+- LCD display for real-time updates
+- Buzzer for alerts
+
+## Components Used
+- Arduino Mega 2560
+- Flame Sensor
+- MQ2 (Smoke)
+- MQ135 (Air Quality)
+- DHT22 (Temperature and Humidity)
+- Ultrasonic Sensor (HC-SR04)
+- Servo Motor (SG90)
+- Buzzer
+- I2C 16x2 LCD Display
+- LED (for electricity simulation)
+
+## Simulation Link
+[Wokwi Simulation](https://wokwi.com/projects/386863089518561280)
